@@ -11,3 +11,7 @@ Items that were missing from the 1920 edition that were added back:
 - Added "persecuting," in Alma 1:32
 - Added "the pains that I do suffer," In Mosiah 18:15
 - Added "according to the crime which he hath committed," to Mosiah 28:15
+
+Changes made to the text:
+- "Burthens" changed to "burdens" in Alma 62:29
+- Removed "the" from Helaman 3:25
