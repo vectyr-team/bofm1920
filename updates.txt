@@ -1,17 +1,12 @@
-Updates to this addition
-
-Forced paragraph breaks:
-1 Nephi 7:1
-1 Nephi 8:38-9:1
-1 Nephi 19:10
-1 Nephi 22:2, 6, 10, 15, 23
-2 Nephi 1:2, 5, 6, 9, 13, 21, 24, 28
+Updates to this edition
 
 Items that were missing from the 1920 edition that were added back:
 - Added "persecuting," in Alma 1:32
 - Added "the pains that I do suffer," In Mosiah 18:15
 - Added "according to the crime which he hath committed," to Mosiah 28:15
+- Added “And now behold, will this not strengthen your faith? Yea, it will strengthen your faith, for ye will say, I know that this is a good seed, for behold, it sprouteth and beginneth to grow.” to Alma 32:33 from the printer’s manuscript.
+- Added "upon the Gentiles," to 3 Nephi 20:27
 
-Changes made to the text:
-- "Burthens" changed to "burdens" in Alma 62:29
-- Removed "the" from Helaman 3:25
+These words were updated because "burthen" is a very archaic version of "burden" and "burden" is already used elsewhere in the text.
+- Changed "burthens" in 1 Nephi 2:23 and Alma 62:29 to "burdens"
+- Changed "burthensome" in Mosiah 6:7 to "burdensome"
