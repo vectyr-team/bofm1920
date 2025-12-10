@@ -6,6 +6,7 @@ Items that were missing from the 1920 edition that were added back:
 - Added "according to the crime which he hath committed," to Mosiah 28:15
 - Added “And now behold, will this not strengthen your faith? Yea, it will strengthen your faith, for ye will say, I know that this is a good seed, for behold, it sprouteth and beginneth to grow.” to Alma 32:33 from the printer’s manuscript.
 - Added "upon the Gentiles," to 3 Nephi 20:27
+- In Mormon 6:14, I left the name "Joneam" even though it is "Jeneum" in the modern text. Royal Skousen suggests the name should read "Joneum" and the Book of Mormon Onomasticon suggests this spelling could potentially mean either "Jehovah is (the) oracle," or "Jehovah is kindness."
 
 These words were updated because "burthen" is a very archaic version of "burden" and "burden" is already used elsewhere in the text.
 - Changed "burthens" in 1 Nephi 2:23 and Alma 62:29 to "burdens"
