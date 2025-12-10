@@ -6,3 +6,5 @@ Items that were missing from the 1920 edition that may have been left out by mis
 - Added "according to the crime which he hath committed," to Mosiah 28:15
 - Added “And now behold, will this not strengthen your faith? Yea, it will strengthen your faith, for ye will say, I know that this is a good seed, for behold, it sprouteth and beginneth to grow.” to Alma 32:33 from the printer’s manuscript.
 - Added "upon the Gentiles," to 3 Nephi 20:27
+- Added missing period after "second time" in Ether 14:29
+- Added missing comma after "men" in Ether 14:31
